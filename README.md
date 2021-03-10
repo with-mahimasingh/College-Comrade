@@ -1,4 +1,4 @@
-# College Comrade
+ t# College Comrade
 A student portal application for university students . 
 
 - It enables user to upload timetable(image or document) which will be converted into Attendance Manager. 

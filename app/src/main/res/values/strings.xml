@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">VSSUT_CSE</string>
+    <string name="vssut_cse">VSSUT CSE</string>
+    <string name="department_of_computer_science_nand_technology">Department of Computer Science \nAnd Technology</string>
 </resources>
