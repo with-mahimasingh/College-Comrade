@@ -49,7 +49,7 @@ Future prospects include adding a document scanner , image modifier (format conv
 <table>
   <tbody><tr>
     <td align="center"><a href="https://github.com/Rittik-Biswal2000"><img alt="" src="https://avatars.githubusercontent.com/Rittik-Biswal2000" width="200px;"><br><sub><b> Rittik Biswal </b></sub></a><br><a href="https://github.com/CSwala/CSwala-android/commits?author=riturajjain2000" title="Code">💻 </a></td> </a></td>
-    <td align="center"><a href="https://github.com/AltamasBari"><img alt="" src="https://avatars.githubusercontent.com/AltamasBari" width="200px;"><br><sub><b> AltamasBari </b></sub></a><br><a href="https://github.com/CSwala/CSwala-android/commits?author=Bharat155" title="Code">💻 </a></td> </a></td>
+    <td align="center"><a href="https://github.com/AltamasBari"><img alt="" src="https://avatars.githubusercontent.com/AltamasBari" width="200px;"><br><sub><b> Altamas Bari </b></sub></a><br><a href="https://github.com/CSwala/CSwala-android/commits?author=Bharat155" title="Code">💻 </a></td> </a></td>
      
     
   </tr>
