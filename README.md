@@ -22,7 +22,7 @@
 - [Maintainers](#maintainers)
 
 ---
-## 🔥 Features
+## Features
 
 - It enables user to upload timetable(image or document) which will be converted into Attendance Manager. 
 
@@ -34,17 +34,17 @@
 
 Future prospects include adding a document scanner , image modifier (format conversion and size modification ), smart notifications , etc.
 
-## 🚀 Installation
+## Installation
 
 - Directly from android studio or through APKs
 
-##  🛠 Tech Stack
+## Tech Stack
 
 - Java 
 - Android
 - Firebase
  
-## 😎 Maintainers 
+## Maintainers 
 
 <table>
   <tbody><tr>
