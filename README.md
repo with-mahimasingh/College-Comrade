@@ -22,7 +22,7 @@
 - [Maintainers](#maintainers)
 
 ---
-## Features
+## Features 
 
 - It enables users to upload timetable(image or document) which will be converted into Attendance Manager. 
 
